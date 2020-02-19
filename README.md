@@ -12,5 +12,5 @@ Follow these steps below to get the app running on your localhost server.
 5. Open a browser and go to localhost:3000/todo
 6. The app is up and running
 
-Once the necessary setup is done, you can click on the link below to run the app.
+Once the necessary setup is done, you can click on the link to run the app.
 http://localhost:3000/todo
